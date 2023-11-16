@@ -1,0 +1,9 @@
+# Project 1 
+In this project, I aimed to determine mushroom edibility based on visual and olfactory characteristics, investigating factors like cap size and odor type. 
+Three machine learning models—logistic regression, decision trees, and random forests—were employed to identify the most accurate predictor. 
+The results, emphasizing correctly classified mushrooms, provide practical insights for applications such as food safety and foraging practices.
+
+
+
+
+
